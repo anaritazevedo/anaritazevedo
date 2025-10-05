@@ -17,53 +17,43 @@
 
 <br>
 
-## 💻 Minhas Stacks
+## Sobre mim
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-</div>
-
-<br>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![Estatísticas do GitHub de Ana Rita](https://github-readme-stats.vercel.app/api?username=anaritazevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaritazevedo&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+- 🤔 Desenvolvendo bots para Discord, scripts para FiveM e explorando novas tecnologias.
+- 🌱 Aprendendo mais sobre arquitetura de sistemas Java com Spring Boot (DDD, SOLID, TDD) e aprimorando meu inglês.
 <br>
 
 
-<div>
-  <a href="https://www.linkedin.com/in/anaritazevedo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo"  />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:narritadev@gmail.com" target="_blank">
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<br>
+
+**DevOps & Ferramentas**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br>
+<br>
+
+## Onde me encontrar
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-Ana%20Rita%20Azevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaritazevedo/)](https://www.linkedin.com/in/anaritazevedo/)
+[![Gmail Badge](https://img.shields.io/badge/-narritadev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:narritadev@gmail.com)](mailto:narritadev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/anaritazevedo?label=follow&style=social)](https://github.com/anaritazevedo)
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
   </a>
 </div>
