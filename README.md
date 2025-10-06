@@ -51,9 +51,9 @@
 ## Onde me encontrar
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-Ana%20Rita%20Azevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaritazevedo/)](https://www.linkedin.com/in/anaritazevedo/)
-[![Gmail Badge](https://img.shields.io/badge/-narritadev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:narritadev@gmail.com)](mailto:narritadev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/anaritazevedo?label=follow&style=social)](https://github.com/anaritazevedo)
+-   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anaritazevedo/)
+-   [![Gmail](https://img.shields.io/badge/%20-Gmail-D14836.svg?style=flat&logo=gmail)](mailto:narritadev@gmail.com)
+-   [![GitHub](https://img.shields.io/badge/%20-GitHub-181717.svg?style=flat&logo=github)](https://github.com/anaritazevedo)
   </a>
 </div>
 
