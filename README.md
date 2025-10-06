@@ -52,7 +52,7 @@
 <br>
 
 -   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anaritazevedo/)
--   [![Gmail](https://img.shields.io/badge/%20-Gmail-D14836.svg?style=flat&logo=gmail)](mailto:narritadev@gmail.com)
+-   [![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail-white&logoColor=fff)](https://mail.google.com/mail/?view=cm&fs=1&to=narritadev@gmail.com)
 -   [![GitHub](https://img.shields.io/badge/%20-GitHub-181717.svg?style=flat&logo=github)](https://github.com/anaritazevedo)
   </a>
 </div>
