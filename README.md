@@ -54,7 +54,6 @@
 [![Linkedin](https://img.shields.io/badge/-Ana%20Rita%20Azevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaritazevedo/)](https://www.linkedin.com/in/anaritazevedo/)
 [![Gmail Badge](https://img.shields.io/badge/-narritadev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:narritadev@gmail.com)](mailto:narritadev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/anaritazevedo?label=follow&style=social)](https://github.com/anaritazevedo)
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo"  />
   </a>
 </div>
 
